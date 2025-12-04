@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven / Spring Boot
+target/
+
+# Logs
+*.log
+
+# Environnement
+.env
+
+# Docker
+docker-compose.override.yml
