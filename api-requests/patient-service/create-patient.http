@@ -4,7 +4,7 @@ Content-Type: application/json
 
 {
   "name": "Aladin Joe WITH BILLING ACCOUNT",
-  "email": "joe_billing_account@yahoo.com",
+  "email": "joe_billing_account123@yahoo.com",
   "address": "123 principal street",
   "dateOfBirth": "1995-10-19",
   "registredDate": "2025-12-06"
