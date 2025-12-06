@@ -3,10 +3,11 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Aladin Joe",
-  "email": "joe@yahoo.com",
+  "name": "Aladin Joe WITH BILLING ACCOUNT",
+  "email": "joe_billing_account@yahoo.com",
   "address": "123 principal street",
-  "dateOfBirth": "1995-10-19"
+  "dateOfBirth": "1995-10-19",
+  "registredDate": "2025-12-06"
 }
 
 
